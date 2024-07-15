@@ -1,7 +1,5 @@
 # Feedback
 
-# Feedback
-
 ## Backend repository for Rythmix
 
 **Frontend repository:**
